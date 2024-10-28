@@ -1,0 +1,6 @@
+you need to install these
+
+Flask
+Flask-Cors
+joblib
+numpy
